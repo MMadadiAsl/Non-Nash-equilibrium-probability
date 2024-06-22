@@ -20,8 +20,8 @@ g++ -std=c++11 file_name.cpp
 
 #### Requirements
 
-- C++11
-- g++ compiler
+- C++11,
+- g++ compiler.
 
 ## Citation
 
