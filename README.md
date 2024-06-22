@@ -6,15 +6,16 @@
 
 ## Usage
 
-- Each sample code name is characterized by a figure label.
+- Each file name is characterized by a figure label.
 - They reproduce data used to generate the figures in the manuscript.
 
 #### Compilation
 
-- Compile either of the scripts with the following syntax and then execute with `./a.out`.
+- Compile and execute either of the scripts with the following syntax:
 
 ```
-g++ -std=c++11 sample_code.cpp
+g++ -std=c++11 file_name.cpp
+./a.out
 ```
 
 #### Requirements
