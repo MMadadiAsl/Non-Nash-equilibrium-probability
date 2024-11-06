@@ -6,8 +6,7 @@
 
 ## Usage
 
-- Each file name is characterized by a figure label.
-- They reproduce data used to generate the relevant figures in the manuscript.
+- These codes reproduce data used to generate the figures in the manuscript.
 
 #### Compilation
 
